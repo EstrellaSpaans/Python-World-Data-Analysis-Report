@@ -8,7 +8,7 @@ This project focussed on exploring World Bank data consisting of 41 indicators o
 by: Estrella Spaans, Jack Daoud, Sara Mareike Krause
 
 ---
-The purpose of the project was to perform an exploratory analysis: 
+<b> The purpose of the project was to perform an exploratory analysis </b>: 
 
 - Remove countries (rows) that aren't part of the Arabian Peninsula
 - Remove columns that contain old data or unreliable data
@@ -16,7 +16,7 @@ The purpose of the project was to perform an exploratory analysis:
 - Flag missing values and outliers.
 - Imputation for mising values 
 
-Business Questions: 
+<b>Business Questions</b>: 
 - Which country represents the the Arabian Peninsula the best on average? 
 - Which five indicators makes the Arabian Peninsula unique compared to the world / other regions? 
 
