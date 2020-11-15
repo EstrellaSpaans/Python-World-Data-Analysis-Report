@@ -21,7 +21,7 @@ Business Questions:
 - Which five indicators makes the Arabian Peninsula unique compared to the world / other regions? 
 
 ---
-<Python Packages used</b>:
+<b> Python Packages used</b>:
 
 - Pandas
 - Matplotlib
