@@ -1,5 +1,4 @@
-# Python World Data Analysis Report
-## Region Analysis
+# Python World Data Region Analysis Jupiter Notebook Report
 
 Sun, 8th Nov 2020
 
