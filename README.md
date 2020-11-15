@@ -29,11 +29,13 @@ Collaborators: [Jack Daoud](https://github.com/JackDaoud) and [Sara Mareike Krau
 
 ---
 ### Summary Findings:
-#### Null Values: 
+
+Our region shines in diversity. Some countries face on-going civil war, others are economically prosperous due to their natural oil reserves.
+Indicators should be closely monitored by the countries of the region to develop future strategies for the triple bottom line: social, environmental, economic sustainability.
+
+#### Null Values / Accuracy
 - Syria and West Bank / Gaza have the most null values due to political instability. 
 - Turkey and Cyprus have the least values missing due to strict reporting culture enforced by the EU. 
-
-#### Accuracy: 
 - Due to instability in many of the countries in the Arabian Peninsula, the majority of data gathered are estimates, or collected from the latest census, which varies from 1963 to 2018, making it incomparable. 
 - The Weighted Average aggregation method renders some inaccuracy as the weights are unknown. Our data shows that weighted averages increase outliers.
 
@@ -51,7 +53,3 @@ The five indicators with the highest average difference best represent our regio
 - Tuberculosis Cases
 - CO2 Emissions
 - GNI per Capita
-
-Our region shines in diversity. Some countries face on-going civil war, others are economically prosperous due to their natural oil reserves.
-These indicators should be closely monitored by the countries of the region to develop future strategies for the triple bottom line: social, environmental, economic sustainability.
-
