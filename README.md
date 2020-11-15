@@ -48,7 +48,7 @@ Indicators should be closely monitored by the countries of the region to develop
 - Oman is the country which best represents the Arabian Peninsula region on average as it has the least missing values and has the least variation to the mean of the different indicators, even though the country has been reported as an outlier in some indicators. 
 
 #### Five Unique Indicators: 
-The five indicators with the highest average difference best represent our region (figure 5.1):
+The five indicators with the highest average difference best represent our region:
 - Tuberculosis Mortality
 - Tuberculosis Cases
 - CO2 Emissions
