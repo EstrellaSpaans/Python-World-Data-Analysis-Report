@@ -12,8 +12,8 @@ Collaborators: [Jack Daoud](https://github.com/JackDaoud) and [Sara Mareike Krau
 
 - Remove countries (rows) that aren't part of the Arabian Peninsula
 - Remove columns that contain old data or unreliable data
-- Formulate a strategy for null-values and outliers. 
-- Flag missing values and outliers.
+- Formulate a strategy for null-values and outliers 
+- Flag missing values and outliers
 - Imputation for mising values 
 
 ### Business Questions: 
@@ -47,7 +47,7 @@ Indicators should be closely monitored by the countries of the region to develop
 #### Representative Country: 
 - Oman is the country which best represents the Arabian Peninsula region on average as it has the least missing values and has the least variation to the mean of the different indicators, even though the country has been reported as an outlier in some indicators. 
 
-#### Five Unique Indicators: 
+#### Five Unique Indicators Compared to World Average
 - Tuberculosis Mortality
 - Tuberculosis Cases
 - CO2 Emissions
