@@ -10,11 +10,11 @@ Collaborators: [Jack Daoud](https://github.com/JackDaoud) and [Sara Mareike Krau
 ---
 ### Exploratory Analysis:
 
-- Remove countries (rows) that aren't part of the Arabian Peninsula
-- Remove columns that contain old data or unreliable data
-- Formulate a strategy for null-values and outliers 
-- Flag missing values and outliers
-- Imputation for mising values 
+- Remove countries (rows) that aren't part of the Arabian Peninsula.
+- Remove columns that contain old data or unreliable data.
+- Formulate a strategy for null-values and outliers.
+- Flag missing values and outliers.
+- Imputation for mising values. 
 
 ### Business Questions: 
 - Which country represents the the Arabian Peninsula the best on average? 
