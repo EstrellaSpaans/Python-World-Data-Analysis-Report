@@ -31,7 +31,7 @@ Collaborators: [Jack Daoud](https://github.com/JackDaoud) and [Sara Mareike Krau
 ### Summary Findings:
 
 Our region shines in diversity. Some countries face on-going civil war, others are economically prosperous due to their natural oil reserves.
-Indicators should be closely monitored by the countries of the region to develop future strategies for the triple bottom line: social, environmental, economic sustainability.
+Indicators should be closely monitored by the countries of the region to develop future strategies for the triple bottom line: social, environmental, and economic sustainability.
 
 #### Null Values / Accuracy
 - Syria and West Bank / Gaza have the most null values due to political instability. 
