@@ -53,3 +53,5 @@ Indicators should be closely monitored by the countries of the region to develop
 - CO2 Emissions
 - GNI per Capita
 - Parliament seats held by women
+
+These indicators should be closely monitored by the countries of the region to develop future strategies for the triple bottom line: social, environmental, economic sustainability.
